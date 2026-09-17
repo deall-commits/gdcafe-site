@@ -33,7 +33,10 @@
 - [촬영 · 대관](https://gdcafe.kro.kr/rental/): 2층 전체 프라이빗 대관, 촬영 장소 대여
 - [오시는 길 · 영업시간](https://gdcafe.kro.kr/visit/)
 - [자주 묻는 질문](https://gdcafe.kro.kr/faq/): 15문항
-- [English](https://gdcafe.kro.kr/en/) · [Filming & Private Hire](https://gdcafe.kro.kr/en/rental/)
+- [English](https://gdcafe.kro.kr/en/) · [Private Hire & Shoots](https://gdcafe.kro.kr/en/rental/)
+- [日本語](https://gdcafe.kro.kr/ja/) · [撮影・貸切](https://gdcafe.kro.kr/ja/rental/)
+- [简体中文](https://gdcafe.kro.kr/zh-hans/) · [拍摄·包场](https://gdcafe.kro.kr/zh-hans/rental/)
+- [繁體中文](https://gdcafe.kro.kr/zh-hant/) · [拍攝／包場](https://gdcafe.kro.kr/zh-hant/rental/)
 
 ## 메뉴 (2026-09-16 메뉴판 기준)
 ### 커피
