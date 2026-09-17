@@ -1,0 +1,30 @@
+# 검색 색인 · 실시간 조회 · 모델 학습용 크롤러를 모두 허용한다 (가게를 정확히 알리는 것이 목적)
+User-agent: *
+Allow: /
+
+User-agent: Yeti
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://gdcafe.kro.kr/sitemap.xml
