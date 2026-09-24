@@ -31,13 +31,16 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Allura&amp;family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500&amp;family=Cormorant+Garamond:wght@500;600&amp;display=swap">
-<link rel="stylesheet" href="/assets/site.css?v=0ba3b45b">
+<link rel="stylesheet" href="/assets/site.css?v=ebbb0dee">
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
  "@graph": [
   {
-   "@type": "CafeOrCoffeeShop",
+   "@type": [
+    "CafeOrCoffeeShop",
+    "EventVenue"
+   ],
    "@id": "https://gdcafe.kro.kr/#cafe",
    "name": "GD CAFE",
    "alternateName": [
@@ -45,7 +48,7 @@
     "에이굿데이",
     "A Good Day"
    ],
-   "description": "GD CAFE(GD카페)는 청담역(7호선) 9번 출구에서 약 100m, 걸어서 1~2분 거리인 삼성로 716 리임빌딩 2층에 있는 카페입니다. 매일 09:00부터 20:00까지 영업하고, 라스트오더는 19:30입니다. 쉬는 날 없이 엽니다. 2층 매장 전체 프라이빗 대관과 촬영·행사 대관 문의를 받습니다.",
+   "description": "GD CAFE(GD카페)는 청담역(7호선) 9번 출구에서 약 100m, 걸어서 1~2분 거리인 삼성로 716 리임빌딩 2층에 있는 카페입니다. 매일 09:00부터 20:00까지 영업하고, 라스트오더는 19:30입니다. 쉬는 날 없이 엽니다. 2층 매장 전체(약 36㎡)를 생일파티·브라이덜샤워·가족 모임·회사 팀 모임·교회와 성당 소모임·촬영용으로 프라이빗하게 대관합니다.",
    "url": "https://gdcafe.kro.kr/",
    "telephone": "+82-10-3431-8482",
    "image": [
@@ -104,6 +107,12 @@
      "@type": "LocationFeatureSpecification",
      "name": "Wi-Fi",
      "value": true
+    },
+    {
+     "@type": "LocationFeatureSpecification",
+     "name": "프라이빗 대관 공간",
+     "value": true,
+     "description": "2층 매장 전체 약 36㎡, 한 모임 전용 대관(주류 반입 불가)"
     }
    ],
    "publicAccess": true
@@ -138,7 +147,7 @@
     "@id": "https://gdcafe.kro.kr/#cafe"
    },
    "inLanguage": "en",
-   "dateModified": "2026-09-17",
+   "dateModified": "2026-09-24",
    "primaryImageOfPage": {
     "@type": "ImageObject",
     "url": "https://gdcafe.kro.kr/img/og-gdcafe-rental.jpg"
@@ -170,9 +179,14 @@
    "name": "Private hire and photo shoots in Cheongdam, Seoul",
    "serviceType": [
     "카페 대관",
-    "촬영 장소 대여",
-    "행사 대관",
-    "단체 예약"
+    "공간대여",
+    "생일파티 대관",
+    "브라이덜샤워 대관",
+    "가족 모임 대관",
+    "단체 모임 대관",
+    "회사 팀 모임 대관",
+    "소모임 장소 대여",
+    "촬영 장소 대여"
    ],
    "description": "GD CAFE offers private hire of its entire 2nd-floor space. We take enquiries for TV, commercial and YouTube shoots, as well as group gatherings and events.",
    "provider": {

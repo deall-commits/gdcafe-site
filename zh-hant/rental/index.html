@@ -32,13 +32,16 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Allura&amp;family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500&amp;family=Cormorant+Garamond:wght@500;600&amp;display=swap">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@600&amp;display=swap&amp;text=-2ACDEFGLWgio%E4%B8%AD%E4%BA%94%E4%BA%A4%E4%BB%A5%E4%BD%8D%E4%BD%8E%E4%BD%8F%E5%83%B9%E5%85%A7%E5%86%B0%E5%88%B0%E5%88%BB%E5%8C%85%E5%8F%8A%E5%8F%96%E5%8F%AF%E5%8F%B0%E5%90%8A%E5%90%A7%E5%92%96%E5%93%81%E5%93%AA%E5%95%8F%E5%95%A1%E5%96%AE%E5%97%8E%E5%9B%A0%E5%9C%A8%E5%9C%B0%E5%9E%8B%E5%9F%BA%E5%A0%B4%E5%A3%81%E5%A4%A7%E5%A5%B6%E5%AD%90%E5%B8%B8%E5%B9%BE%E5%BA%97%E5%BA%A7%E5%BB%B3%E5%BC%8F%E5%BE%97%E6%88%96%E6%8B%8D%E6%8B%9B%E6%8B%B1%E6%8B%BF%E6%94%9D%E6%95%B4%E6%96%87%E6%96%B9%E6%98%AF%E6%99%82%E6%99%AF%E6%99%B6%E6%9C%89%E6%9C%AC%E6%9D%BF%E6%A0%BC%E6%A1%86%E6%A1%8C%E6%A2%A8%E6%A5%AD%E6%A8%93%E6%A8%B9%E6%B0%A3%E6%B0%B4%E6%B2%99%E6%B2%B9%E6%B3%A1%E6%B4%9E%E6%B4%BD%E6%B7%B1%E6%B8%85%E6%BD%AD%E7%87%88%E7%87%9F%E7%88%BE%E7%89%86%E7%89%8C%E7%8E%BB%E7%90%86%E7%92%83%E7%94%9C%E7%99%BD%E7%9A%84%E7%9C%8B%E7%9F%B3%E7%A3%9A%E7%A9%80%E7%A9%BA%E7%AA%97%E7%AB%AF%E7%B2%89%E7%B3%AC%E7%B4%84%E7%B4%85%E7%B4%8B%E7%B7%9A%E8%83%8C%E8%88%87%E8%89%B2%E8%8C%B6%E8%8F%9C%E8%95%89%E8%A1%8C%E8%A3%A1%E8%A6%8B%E8%A8%8A%E8%A9%A2%E8%A9%B1%E8%B3%87%E9%80%9A%E9%80%A0%E9%81%93%E9%85%AA%E9%87%91%E9%8F%A1%E9%90%B5%E9%96%80%E9%96%93%E9%9B%BB%E9%9D%9E%E9%9D%A2%E9%A0%90%E9%A1%8C%E9%A3%B2%E9%A4%90%E9%A6%96%E9%A6%99%E9%BA%BB%E9%BB%9E%EF%BC%8C%EF%BC%9F%20">
-<link rel="stylesheet" href="/assets/site.css?v=0ba3b45b">
+<link rel="stylesheet" href="/assets/site.css?v=ebbb0dee">
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
  "@graph": [
   {
-   "@type": "CafeOrCoffeeShop",
+   "@type": [
+    "CafeOrCoffeeShop",
+    "EventVenue"
+   ],
    "@id": "https://gdcafe.kro.kr/#cafe",
    "name": "GD CAFE",
    "alternateName": [
@@ -46,7 +49,7 @@
     "에이굿데이",
     "A Good Day"
    ],
-   "description": "GD CAFE(GD카페)는 청담역(7호선) 9번 출구에서 약 100m, 걸어서 1~2분 거리인 삼성로 716 리임빌딩 2층에 있는 카페입니다. 매일 09:00부터 20:00까지 영업하고, 라스트오더는 19:30입니다. 쉬는 날 없이 엽니다. 2층 매장 전체 프라이빗 대관과 촬영·행사 대관 문의를 받습니다.",
+   "description": "GD CAFE(GD카페)는 청담역(7호선) 9번 출구에서 약 100m, 걸어서 1~2분 거리인 삼성로 716 리임빌딩 2층에 있는 카페입니다. 매일 09:00부터 20:00까지 영업하고, 라스트오더는 19:30입니다. 쉬는 날 없이 엽니다. 2층 매장 전체(약 36㎡)를 생일파티·브라이덜샤워·가족 모임·회사 팀 모임·교회와 성당 소모임·촬영용으로 프라이빗하게 대관합니다.",
    "url": "https://gdcafe.kro.kr/",
    "telephone": "+82-10-3431-8482",
    "image": [
@@ -105,6 +108,12 @@
      "@type": "LocationFeatureSpecification",
      "name": "Wi-Fi",
      "value": true
+    },
+    {
+     "@type": "LocationFeatureSpecification",
+     "name": "프라이빗 대관 공간",
+     "value": true,
+     "description": "2층 매장 전체 약 36㎡, 한 모임 전용 대관(주류 반입 불가)"
     }
    ],
    "publicAccess": true
@@ -139,7 +148,7 @@
     "@id": "https://gdcafe.kro.kr/#cafe"
    },
    "inLanguage": "zh-Hant",
-   "dateModified": "2026-09-17",
+   "dateModified": "2026-09-24",
    "primaryImageOfPage": {
     "@type": "ImageObject",
     "url": "https://gdcafe.kro.kr/img/og-gdcafe-rental.jpg"
@@ -171,9 +180,14 @@
    "name": "清潭洞拍攝場地與咖啡廳包場",
    "serviceType": [
     "카페 대관",
-    "촬영 장소 대여",
-    "행사 대관",
-    "단체 예약"
+    "공간대여",
+    "생일파티 대관",
+    "브라이덜샤워 대관",
+    "가족 모임 대관",
+    "단체 모임 대관",
+    "회사 팀 모임 대관",
+    "소모임 장소 대여",
+    "촬영 장소 대여"
    ],
    "description": "GD CAFE 可將2樓整間店店面私人包場。節目、廣告、YouTube 等拍攝，以及團體聚會、活動，都歡迎洽詢。",
    "provider": {

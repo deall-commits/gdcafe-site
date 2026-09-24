@@ -107,6 +107,20 @@ table.price .ko{display:block;font-size:13px;color:var(--muted);font-weight:400}
 .checks{list-style:none;margin:0;padding:0;display:grid;gap:8px}
 .checks li{padding:12px 16px;background:var(--card);border:1px solid var(--rule-2);border-radius:10px}
 .checks li:before{content:"◆";color:var(--gold-2);font-size:11px;margin-right:10px;vertical-align:2px}
+.use{padding:26px 0;border-top:1px solid var(--rule-2)}
+.use:first-of-type{border-top:0;padding-top:4px}
+.use .caps{margin-bottom:4px}
+.use h3{font-size:clamp(20px,2.6vw,25px);margin-bottom:10px}
+table.terms th{width:11em;font-weight:600}
+table.terms .ko{display:block;font-size:13px;color:var(--muted);font-weight:400}
+.ev-grid{grid-template-columns:repeat(auto-fill,minmax(min(100%,320px),1fr))}
+.ev{background:var(--card);border:1px solid var(--rule-2);border-radius:var(--r);padding:20px;display:grid;gap:8px;align-content:start}
+.ev h3{font-size:20px}
+.ev-m{font-size:13.5px;font-weight:700;color:var(--gold);letter-spacing:.02em}
+.ev[data-status="진행 중"]{border-color:var(--gold-2);box-shadow:0 0 0 1px var(--gold-2)}
+.ev[data-status="종료"]{opacity:.62}
+.ev .offer{font-size:14.5px;border-top:1px solid var(--rule-2);padding-top:8px}
+tr[data-status="종료"]{opacity:.55}
 .band{background:var(--band);color:var(--band-ink);padding:56px 0}
 .band .creed{font-family:"Nanum Brush Script",var(--head);font-size:clamp(23px,3.4vw,32px);line-height:1.45;max-width:30em;margin-bottom:26px}
 .band .cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:18px;border-top:1px solid rgba(244,239,230,.22);padding-top:22px}
