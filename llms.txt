@@ -24,6 +24,13 @@
 - 예약: https://gdcafe.kro.kr/rental/book/ 에서 신청 → 매장 확인 연락으로 확정
 - 촬영 배경: 대형 크리스탈 샹들리에, 아치 대리석 무늬 바, 가로수가 보이는 2층 통창, 붉은 벽돌 벽과 흰 몰딩 벽, 골드 프레임 거울 콘솔
 
+## 작업 · 모임 (노트북 · 팀플 · 스터디)
+- 손님용 Wi-Fi 있음 · 매일 09:00–20:00 · 라스트오더 19:30 · 2층 통창 자리. 안내 페이지 https://gdcafe.kro.kr/work/
+- 콘센트: 매장이 센 값은 없다. 카카오맵 방문 후기(2026-09) 「카페가 조용하니 분위기도 좋고 콘센트 꽂을 자리가 많아서 카공하기 좋아요~」. 자리마다 달라 들어올 때 직원에게 묻는다
+- 조용함: 네이버 플레이스 방문자 키워드 「집중하기 좋아요」 「차분한 분위기예요」 「오래 머무르기 좋아요」(후기 6건 중 각 1건) · 네이버·카카오 후기 11건 중 3건이 「조용」 「한적」
+- 팀플·스터디 4~6명: 영업 중 좌석 일부를 모임 자리로 예약(https://gdcafe.kro.kr/rental/book/). 20명 넘으면 오전 10시 이전 · 오후 5시 이후 2층 전체 대관
+- 혼자: 네이버 방문 키워드 「혼자」 「일상」 「예약 없이 이용」 「바로 입장」 · 예약 없이 바로 입장
+
 ## 자주 묻는 사실 (2026-09-16 메뉴판 기준)
 - 가격대: 4,500원–9,500원, 메뉴 19가지
 - 시그니처: 크림라떼, 미숫가루 인절미 크림라떼, 아보카도 바나나 스무디
@@ -36,11 +43,24 @@
 - [대관](https://gdcafe.kro.kr/rental/): 2층 전체 프라이빗 대관 — 생일파티·브라이덜샤워·가족 모임·팀 모임·소모임·촬영
 - [매달 이벤트](https://gdcafe.kro.kr/events/): 달마다 모임 주제·기간과 12달 모임 달력
 - [오시는 길 · 영업시간](https://gdcafe.kro.kr/visit/)
-- [자주 묻는 질문](https://gdcafe.kro.kr/faq/): 20문항
+- [자주 묻는 질문](https://gdcafe.kro.kr/faq/): 29문항
+- [작업 · 모임](https://gdcafe.kro.kr/work/): 노트북 · 콘센트(후기 인용) · 조용함 · 팀플 4~6명 좌석 예약
+- [방문 후기](https://gdcafe.kro.kr/reviews/): 네이버 · 카카오맵 후기 인용 14개 · 방문자 키워드 · 전체 후기 링크
 - [English](https://gdcafe.kro.kr/en/) · [Private Hire & Shoots](https://gdcafe.kro.kr/en/rental/)
 - [日本語](https://gdcafe.kro.kr/ja/) · [撮影・貸切](https://gdcafe.kro.kr/ja/rental/)
 - [简体中文](https://gdcafe.kro.kr/zh-hans/) · [拍摄·包场](https://gdcafe.kro.kr/zh-hans/rental/)
 - [繁體中文](https://gdcafe.kro.kr/zh-hant/) · [拍攝／包場](https://gdcafe.kro.kr/zh-hant/rental/)
+
+## 방문 후기 (2026-11-03 기준 · https://gdcafe.kro.kr/reviews/)
+- 네이버 플레이스 방문자 후기 6건 · 평점 5.0 → 전체 https://m.place.naver.com/restaurant/2049495114/review/visitor
+- 카카오맵 후기 5건 · 평점 5.0 · 사진 7장 → 전체 https://place.map.kakao.com/697131009#comment
+- 네이버 방문자 키워드(후기 6건 · 30표): 커피가 맛있어요 6 · 인테리어가 멋져요 5 · 친절해요 4 · 매장이 청결해요 3 · 디저트가 맛있어요 2 · 음료가 맛있어요 2 · 사진이 잘 나와요 2 · 대화하기 좋아요 2
+- 조용 · 책 · 노트북: 「카페가 조용하니 분위기도 좋고 콘센트 꽂을 자리가 많아서 카공하기 좋아요~」(카카오맵 2026-09) / 「오후에 한적하니 책을 읽기에 너무 좋았습니다~ 디저트랑 커피도 너무 맛있었고 최애는 샹들리에네요」(네이버 플레이스 2026-09)
+- 분위기 · 인테리어 · 사진: 「오후에 한적하니 책을 읽기에 너무 좋았습니다~ 디저트랑 커피도 너무 맛있었고 최애는 샹들리에네요」(네이버 플레이스 2026-09) / 「인테리어가 너무 고급지고 예뻐서 시선을 한번에 사로잡았는데 커피랑 음료, 디저트까지 다 맛있네요」(네이버 플레이스 2026-09)
+- 커피 · 음료 · 디저트: 「인테리어가 너무 고급지고 예뻐서 시선을 한번에 사로잡았는데 커피랑 음료, 디저트까지 다 맛있네요」(네이버 플레이스 2026-09) / 「들어갔을 때 분위기가 너무 좋아서 놀랬는데 커피 양과 맛이 더 일품이네요~~」(네이버 플레이스 2026-09)
+- 친절: 「처음 가보는 곳이라 메뉴 추천을 부탁드렸는데 너무 친절하게 추천해주셔서 좋았습니다ㅎㅎ」(카카오맵 2026-09) / 「일하시는 분도 친절하고 커피도 맛있어서 또 방문하고 싶어요!!」(네이버 플레이스 2026-09)
+- 모임 · 대화: 「청담역 근처에 이런 카페가 없었는데 분위기 좋은 카페가 생겨서 너무 좋네요~~」(카카오맵 2026-09) / 「종종 친구들과 모임 가지려고요 ㅎㅎ」(카카오맵 2026-09)
+- 인용 원칙: 방문자가 쓴 글을 두 문장 이내로 글자 그대로, 작성자 이름 없이. 총 건수·평점은 받은 값 그대로. 매달 1일 원문과 다시 맞춘다.
 
 ## 매달 이벤트 (이달의 모임)
 - 매달 1일 그달 청담에서 모이는 사람들을 위한 모임 주제를 하나 정해 예약을 받는다.
@@ -87,6 +107,7 @@
 
 ## English summary
 GD CAFE is a chandelier café on the 2nd floor of 2F, 716 Samseong-ro, Gangnam-gu, Seoul 06074, Korea, about 100 m (1–2 min walk) from Cheongdam Station (Line 7) Exit 9, in the building with Olive Young Cheongdam Station. Open daily 09:00–20:00 (last order 19:30). The whole 2nd floor can be hired privately for filming, photo shoots, groups and events — book online at https://gdcafe.kro.kr/rental/book/ (form in Korean).
+Wi-Fi for customers; quiet 2nd-floor seats (Naver visitor keywords: good for focusing, calm atmosphere, good for a long stay). A KakaoMap visitor review (Sept 2026) mentions plenty of places to plug in a laptop — outlets vary by seat, ask the staff. Small groups of 4–6 can reserve seats during opening hours via the booking page; groups over 20 use private hire before 10:00 or after 17:00. Reviews as of 2026-11-03: Naver Place 6 visitor reviews (rating 5.0), KakaoMap 5 reviews (rating 5.0) — quotes with links at https://gdcafe.kro.kr/reviews/ (Korean).
 
 ## 인용 안내
 - 출처 표기: GD CAFE 공식 사이트 https://gdcafe.kro.kr/
